@@ -1,0 +1,48 @@
+/* 1 */
+/* .wrap {
+  display: flex;
+}
+.A, .B {
+  height: 100px;
+}
+.A {
+  width: 100px;
+  background-color: aqua;
+}
+.B {
+  flex: 1;
+  background-color: bisque;
+} */
+
+/* 2 */
+/* .A, .B {
+  height: 100px;
+}
+.A {
+  width: 100px;
+  float: left;
+  background-color: aqua;
+}
+.B {
+  background-color: bisque;
+  overflow: auto;
+} */
+
+/* 3 */
+.wrap{
+  position: relative;
+}
+.A, .B {
+  height: 100px;
+}
+.A {
+  width: 100px;
+  position: absolute;
+  left:0;
+  top:0;
+  background-color: aqua;
+}
+.B {
+  margin-left: 100px;
+  background-color: bisque;
+}
