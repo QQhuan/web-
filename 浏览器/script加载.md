@@ -2,9 +2,9 @@
 
    并行下载，如下图（各个script文件之间没有设置什么属性），可以看出谷歌下载各个文件时并行下载的，另外，script文件的执行是顺序执行，而且是边编译边执行的，以上两点在谷歌和Edge上都是一样的。
 
-![image-202104231024334、35](C:\Users\88\AppData\Roaming\Typora\typora-user-images\image-20210423102433435.png)
+![image-20210423102433435](../imgs/image-20210423102433435.png)
 
-![image-20210423102953325](C:\Users\88\AppData\Roaming\Typora\typora-user-images\image-20210423102953325.png)
+![image-20210423102953325](../imgs/image-20210423102953325.png)
 
 2. script文件的defer和async属性
 

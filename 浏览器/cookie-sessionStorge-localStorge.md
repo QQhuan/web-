@@ -1,6 +1,6 @@
 1. 请描述一下 cookies ， sessionStorage 和 localStorage 的区别（牛客）
 
-![image-20210426153713558](C:\Users\88\AppData\Roaming\Typora\typora-user-images\image-20210426153713558.png)
+![image-20210426153713558](../imgs/存储.png)
 
 ### 应用场景
 
