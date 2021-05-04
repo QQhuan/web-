@@ -1,5 +1,5 @@
-
-
+1. 如何修改函数的`this`指向？
+   > 使用`call`、`apply`、`bind`修改
 ```js
 function bindThis(f, oTarget) {
     //方法一
