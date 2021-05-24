@@ -82,4 +82,3 @@ console.log(o.average, o.sum); // logs 2, 6
 
    指向触发事件的元素，当不使用`addEventListener`动态添加的时候不遵守这个约定
 
-
